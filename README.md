@@ -16,6 +16,7 @@ Install
 
 Install the project locally
 ```bash
+git clone https://github.com/SenayYakut/Off-Platform-Project-Reggie-s-Linear-Regression.git
 ```
 
 ## Usage
